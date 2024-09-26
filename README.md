@@ -29,12 +29,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrandPapaDi?tab=overview&from=2024-08-01&to=2024-08-31)
 ![GIT](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Sololearn](https://img.shields.io/badge/-Sololearn-000?style=for-the-badge&logo=Sololearn&logoColor=white)
 ![Bem](https://img.shields.io/badge/-bem-000?style=for-the-badge&logo=bem&logoColor=white)
 ![Swiper](https://img.shields.io/badge/-Swiper-000?style=for-the-badge&logo=swiper&logoColor=6332F6)
-![Swiper](https://img.shields.io/badge/-freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Freecodecamp](https://img.shields.io/badge/-freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 ### Socials:
 
