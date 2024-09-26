@@ -1,4 +1,4 @@
-![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/matrix.mp4)
+![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/matrix.gif)
 
 ### About me :
 
