@@ -21,7 +21,7 @@
     finishing the course in February 2024, I focused on creating my own portfolio, which I continue to
     develop today.
 
-### Languages and Tools:
+### Technologies and Tools:
 
 ![SASS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=#F24E1E)
