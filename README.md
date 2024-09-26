@@ -13,7 +13,9 @@
     I began my journey into web development and IT in December 2022. Initially, I learned from free
     YouTube tutorials, gradually diving deeper into the basics. In the spring of 2023, I purchased my
     first comprehensive JavaScript course. To further enhance my skills, I completed the 'High-Quality Web
-    Interface Development' course taught by one of Ukraine's top instructors, [Yevhen Andrikanych](https://edu.fls.guru/nodejs.html). After finishing the course in February 2024,
+    Interface Development' course taught by one of Ukraine's top instructors,
+    [Yevhen Andrikanych](https://edu.fls.guru/nodejs.html).
+    After finishing the course in February 2024,
     I focused on creating my own portfolio, which I continue to develop today.
 
 ### Technologies and Tools:
