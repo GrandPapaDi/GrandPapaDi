@@ -13,7 +13,8 @@
     I began my journey into web development and IT in December 2022. Initially, I learned from free
     YouTube tutorials, gradually diving deeper into the basics. In the spring of 2023, I purchased my
     first comprehensive JavaScript course. To further enhance my skills, I completed the 'High-Quality Web
-    Interface Development' course taught by one of Ukraine's top instructors, [Yevhen Andrikanych](https://edu.fls.guru/nodejs.html). After finishing the course in February 2024, I focused on creating my own portfolio, which I continue to develop today.
+    Interface Development' course taught by one of Ukraine's top instructors,
+     [Yevhen Andrikanych](https://edu.fls.guru/nodejs.html). After finishing the course in February 2024, I focused on creating my own portfolio, which I continue to develop today.
 
 ### Technologies and Tools:
 
@@ -39,5 +40,6 @@
 ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 [![Discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://wa.me/+491627651680)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/+491627651680)
+[![Whatsapp](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=F05032)](mailto:veradocx@gmail.com)
 
 ### Follow Me:
