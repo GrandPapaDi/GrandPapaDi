@@ -1,8 +1,8 @@
-![Header](https://tenor.com/uk/view/green-matrix-numbers-letters-gif-11254883742818033005)
+![Matrix Code](https://tenor.com/uk/view/green-matrix-numbers-letters-gif-11254883742818033005)
 
 ### About me :
 
-    Hi, I'm Alex, a results-driven front-end developer with over a year of experience. Based in Kyiv, I
+    Hi, I'm Alex, a results-driven front-end developer with over a year of experience. I
     specialize in crafting visually stunning, responsive websites that deliver exceptional user
     experiences. I have developed a number of websites for my portfolio, covering various industries. And
     this number continues to grow steadily.
