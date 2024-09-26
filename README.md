@@ -1,4 +1,4 @@
-![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/matrix.gif)
+![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/matrix-resize.gif)
 
 ### About me :
 
