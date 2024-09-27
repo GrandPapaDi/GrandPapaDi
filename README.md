@@ -1,4 +1,4 @@
-![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/matrix-cut.gif)
+![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/coding.gif)
 
 #
 
