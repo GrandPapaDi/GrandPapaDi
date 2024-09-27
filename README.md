@@ -13,8 +13,7 @@
     I began my journey into web development and IT in December 2022. Initially, I learned from free
     YouTube tutorials, gradually diving deeper into the basics. In the spring of 2023, I purchased my
     first comprehensive JavaScript course. To further enhance my skills, I completed the 'High-Quality Web
-    Interface Development' course taught by one of Ukraine's top instructors,
-    [Yevhen Andrikanych](https://edu.fls.guru/nodejs.html).
+    Interface Development' course taught by one of Ukraine's top instructors, Yevhen Andrikanych.
     After finishing the course in February 2024,
     I focused on creating my own portfolio, which I continue to develop today.
 
@@ -36,10 +35,8 @@
 ### Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/grandpappadi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-grymut-a34294272/)
 [![Viber](https://img.shields.io/badge/viber-000000?style=for-the-badge&logo=viber&logoColor=7360F2)](https://www.facebook.com/alexeyshpavda)
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 [![Discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://wa.me/+491627651680)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/+491627651680)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=F05032)](mailto:veradocx@gmail.com)
