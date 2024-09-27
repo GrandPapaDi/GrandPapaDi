@@ -9,8 +9,7 @@
     Hi, I'm Alex, a results-driven front-end developer with over a year of experience. I
     specialize in crafting visually stunning, responsive websites that deliver exceptional user
     experiences. I have developed a number of websites for my portfolio, covering various industries. And
-    this number continues to grow steadily.
-    Let's collaborate to bring your vision to life.
+    this number continues to grow steadily. Let's collaborate to bring your vision to life.
 
     I'm passionate about transforming my creativity and knowledge into successful websites.
 
