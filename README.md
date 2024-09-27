@@ -1,5 +1,7 @@
 ![Header](https://github.com/GrandPapaDi/GrandPapaDi/blob/main/assets/matrix-cut.gif)
 
+# Hello, I'm Aleksandr, and I craft responsive websites where technology meets creativity.
+
 ### About me :
 
     Hi, I'm Alex, a results-driven front-end developer with over a year of experience. I
