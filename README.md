@@ -37,9 +37,9 @@
 
 ### Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/grandpappadi)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]([https://t.me/grandpappadi](https://www.upwork.com/freelancers/~012a2f49fc8dda947f))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-grymut-a34294272/)
-[![Viber](https://img.shields.io/badge/viber-000000?style=for-the-badge&logo=viber&logoColor=7360F2)](viber://add?number=380995216128)
-[![Discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/grand_pappa_disashko)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/+491627651680)
-[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=F05032)](mailto:veradocx@gmail.com)
+[![Viber](https://img.shields.io/badge/viber-000000?style=for-the-badge&logo=viber&logoColor=7360F2)]([viber://add?number=380995216128](https://www.upwork.com/freelancers/~012a2f49fc8dda947f))
+[![Discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)]([https://discord.com/users/grand_pappa_disashko](https://www.upwork.com/freelancers/~012a2f49fc8dda947f))
+[![Whatsapp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)]([https://wa.me/+491627651680](https://www.upwork.com/freelancers/~012a2f49fc8dda947f))
+[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=F05032)]([mailto:veradocx@gmail.com](https://www.upwork.com/freelancers/~012a2f49fc8dda947f))
