@@ -6,19 +6,15 @@
 
 ### About me :
 
-    Hi, I'm Alex, a results-driven front-end developer with over a year of experience. I
-    specialize in crafting visually stunning, responsive websites that deliver exceptional user
-    experiences. I have developed a number of websites for my portfolio, covering various industries. And
-    this number continues to grow steadily. Let's collaborate to bring your vision to life.
+        Hi, I'm Alex, a results-driven front-end developer with a strong foundation in creating visually stunning, 
+    responsive websites that offer exceptional user experiences. I have a growing portfolio of websites spanning
+    various industries, and I'm always eager to take on new challenges to bring fresh ideas to life.
 
-    I'm passionate about transforming my creativity and knowledge into successful websites.
+       I'm passionate about transforming creativity and technical skills into successful websites. Through continuous
+   learning and hands-on practice, I've built the expertise needed to develop high-quality interfaces that engage
+   users and exceed client expectations.
 
-    I began my journey into web development and IT in December 2022. Initially, I learned from free
-    YouTube tutorials, gradually diving deeper into the basics. In the spring of 2023, I purchased my
-    first comprehensive JavaScript course. To further enhance my skills, I completed the 'High-Quality Web
-    Interface Development' course taught by one of Ukraine's top instructors, Yevhen Andrikanych.
-    After finishing the course in February 2024,
-    I focused on creating my own portfolio, which I continue to develop today.
+      Let's work together to turn your vision into a reality!
 
 ### Technologies and Tools:
 
