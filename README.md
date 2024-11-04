@@ -2,7 +2,7 @@
 
 #
 
-<h1 align="center">Hello, 👋  I'm Aleksandr, and I craft responsive websites where technology meets creativity</h1>
+<h1 align="center">Hello, 👋  I'm Oleksandr, and I craft responsive websites where technology meets creativity</h1>
 
 ### About me :
 
