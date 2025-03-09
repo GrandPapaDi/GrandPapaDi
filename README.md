@@ -32,9 +32,10 @@ Hi, ich bin Alex! Ich bin ein motivierter Frontend-Entwickler mit einem Portfoli
 
 ### Socials
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alex_web_develop?utm_source=blank)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-grymut-a34294272/)
-[![Viber](https://img.shields.io/badge/viber-000000?style=for-the-badge&logo=viber&logoColor=7360F2)](https://www.upwork.com/freelancers/~012a2f49fc8dda947f)
-[![Discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](Discord: alex_web_developer)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/+491627651680)
-[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=F05032)](mailto:veradocx@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alex_web_develop)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-grymut-a34294272/)
+[![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=0935518808)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ВАШ_ID)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ВАШ_НОМЕР)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veradocxl@gmail.com)
+
