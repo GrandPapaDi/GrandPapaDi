@@ -32,7 +32,10 @@ Hi, ich bin Alex! Ich bin ein motivierter Frontend-Entwickler mit einem Portfoli
 
 ### Socials
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alex_web_develop)
+<a href="https://t.me/alex_web_develop" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram">
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleksandr-grymut-a34294272/)
 [![Viber](https://img.shields.io/badge/viber-000000?style=for-the-badge&logo=viber&logoColor=7360F2)](https://www.upwork.com/freelancers/~012a2f49fc8dda947f)
 [![Discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://www.upwork.com/freelancers/~012a2f49fc8dda947f)
